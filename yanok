@@ -10,10 +10,15 @@ git push
 
 echo "Третья версия" >> file.txt
 git add file.txt
-git commit -m "Второй commit"
+git commit -m "Третий commit"
 git push
 
 echo "Четвертая версия" >> file.txt
 git add file.txt
-git commit -m "Второй commit"
+git commit -m "Четвертый commit"
+git push
+
+echo "Пятая версия" >> file.txt
+git add file.txt
+git commit -m "Пятый commit"
 git push
