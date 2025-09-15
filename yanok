@@ -7,3 +7,8 @@ echo "Вторая версия" >> file.txt
 git add file.txt
 git commit -m "Второй commit"
 git push
+
+echo "Третья версия" >> file.txt
+git add file.txt
+git commit -m "Второй commit"
+git push
