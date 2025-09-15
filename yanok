@@ -22,3 +22,8 @@ echo "Пятая версия" >> file.txt
 git add file.txt
 git commit -m "Пятый commit"
 git push
+
+echo "Шестая версия" >> file.txt
+git add file.txt
+git commit -m "Шестой commit"
+git push
